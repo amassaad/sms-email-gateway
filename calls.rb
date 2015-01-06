@@ -1,6 +1,6 @@
 require_relative 'helper'
 counter = 0
-root = "https://safe-gorge-6634.herokuapp.com"
+# root = "https://safe-gorge-6634.herokuapp.com"
 
 get_or_post '/in-call' do
   account_sid = ENV['TSID']
