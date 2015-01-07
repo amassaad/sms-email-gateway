@@ -7,6 +7,7 @@ gem 'twilio-ruby'
 gem 'mail'
 gem 'thin'
 gem 'rufus-scheduler'
+gem 'rails_12factor',         '~> 0.0.3'
 
 group :production do
 	gem 'newrelic_rpm'
