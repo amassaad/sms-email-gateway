@@ -1,4 +1,4 @@
-# Welcome, the build status is here: #
+# Welcome, the build status is here: "!https://codeship.com/projects/25553ed0-7821-0132-7947-1640b3fda4e3/status?branch=master!":https://codeship.com/projects/55632#
 
 ### What is this repository for? ###
 
