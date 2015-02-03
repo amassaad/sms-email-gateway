@@ -18,5 +18,4 @@ group :development, :test do
 	gem 'webrat',        '~> 0.7.3'
 	gem 'rack',          '~> 1.6.0'
 	gem 'rack-test',     '~> 0.6.3'
-	gem 'timecop',       '~> 0.7.1'
 end
