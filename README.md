@@ -8,11 +8,9 @@ SMS gateway
 
 * gem 'sinatra'
 * gem 'twilio-ruby'
-* gem 'mail'
-* heroku deployment
 * Twilio account
 
 ### Who do I talk to? ###
 
 * Massaad
- 
+
